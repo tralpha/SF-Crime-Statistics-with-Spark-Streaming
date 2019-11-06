@@ -58,7 +58,9 @@ We get the following output:
 
 ![kafka consumer](images/producer_server_results.png)
 
-- We create a `data_consumer.py` script to consume data produced from the kafka producer. Running it gets the follwoing results: 
+
+### Consumer data
+- We create a `data_consumer.py` script to consume data produced from the kafka producer. Running it gets the follwoing consumer console logs.
 
 ![consumer](images/consumer_data.png)
 
